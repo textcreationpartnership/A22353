@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles by the grace of God king of England, Scotland, France and  Ireland, defender of the faith, &amp;c. to our right trusty and welbeloued cousin, William Earle of Northampton ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22353</idno>
+            <idno type="STC">STC 8766</idno>
+            <idno type="STC">ESTC S3765</idno>
+            <idno type="EEBO-CITATION">33150929</idno>
+            <idno type="OCLC">ocm 33150929</idno>
+            <idno type="VID">28824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles by the grace of God king of England, Scotland, France and  Ireland, defender of the faith, &amp;c. to our right trusty and welbeloued cousin, William Earle of Northampton ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By B. Norton and J. Bill,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Imperfect: cropped and faded, with loss of print.</note>
+                  <note>"Witnes Our selfe at Westminster, the fourth day of April, in the first yeere Our Reigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Northampton, William Compton, --   Earl of, d. 1630.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Wales --  Politics and government --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28824:1"/>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> By the Grace of God, King of England, Scotland, France and Ireland, Defender of the Faith, &amp;c.</signed> 
+               <salute>TO Our right truſty and right welbeloued Couſin <hi>William</hi> Earle of Northampton, Pre<g ref="char:EOLhyphen"/>ſident of Our Councell within the Dominion, Principality, and Marches of Walles, greeting.</salute>
+            </opener>
+            <p>KNOW ye, that for the great and ſinguler truſt and confidence, that We haue in your approued fidelitie, wiſe<g ref="char:EOLhyphen"/>dome and circumſpection, We haue aſſigned, made, conſtituted, and ordeined, and by theſe preſents doe aſſigne, make, conſtitute, and ordeine you to bee our Lieutenant within the Principality and Dominions of South-Wales and North-wales, (Our Counties of Glamorgan and Monmouth onely excepted) the Marches thereunto adioyning, and the ſeuerall Counties of Worceſter, Hereford, and Salop, and in all cor<g ref="char:EOLhyphen"/>porate and priuiledge places within the Limits or <hi>Precincts</hi> of the Principalitie, Dominions, Marches, and Counties aforeſaid, or any of them, as well within Liberties as without: And by theſe preſents doe giue full power and authoritie vnto you, That you, from time to time may leuie, gather, and call together, all and ſinguler Our Subiects, of what eſtate, degree or dignitie, they or any of them bee, dwelling or inhabiting within the Principalitie, Dominions, Marches or Counties aforeſaid, aſwel within Liberties as without, meet and apt for the Warres, and them from time to time to trie, array, and put in readineſſe, And them alſo, and euery of them after their abilities, degrees and faculties, well and ſufficiently to cauſe to be armed and weaponed; And to take the Muſters of them from time to time, in places moſt meet for that purpoſe, after your diſcretion: And alſo the ſame Our Subiects ſo arrayed, tried, and armed, aſwell men of Armes, as other Horſemen, Archers, and Footmen of all kindes and degrees, meete and apt for the Warres, to leade, and conduct, aſwel againſt all and ſinguler Our enemies, as alſo againſt all and ſinguler Rebels, Traytors, and other offenders and their adherents againſt Vs, Our Crowne and dignity, within the Principalitie and Dominions of North-Wales and South-Wales, the Marches of the ſame, and Counties aforeſayd, and euery of them from time to time, as often as neede ſhall require by your diſ<g ref="char:EOLhyphen"/>cretion: And with the ſaid enemies, Traitors and Rebels to fight, and them to inuade, reſiſt, repreſſe, ſubdue, ſlay, kill, and put to execution of death by all wayes and meanes, by your ſaid diſcretion: And to doe, fulfill and execute all and ſinguler other things, which ſhall be requiſite for the leuying and gouernement of Our ſaid Subiects, for the conſeruation of Our perſon and peace, ſo by you in forme aforeſaid leuied, and to bee ledde: And further to doe, execute, and vſe againſt the ſaid enemies, Traytors &amp; Rebels, and ſuch other like offendres and their adherents, as neceſſitie ſhall require by your diſcretion, the Law called the <hi>Martiall-Law,</hi> according to the Law-martial: And of ſuch offenders apprehen<g ref="char:EOLhyphen"/>ded, or being brought in ſubiection, to ſaue whom you ſhall thinke good to be ſaued, and to ſlay, deſtroy, and put to execution of death, ſuch, and as many of them as you ſhall thinke meet, by your good diſcretion, to be put to death. AND further, Our will and pleaſure is, and by theſe preſents We doe giue vnto you full power and authoritie, that in caſe any Inuaſion of Enemies, Inſurrection, Rebellion, Ryots, Routs, or vnlawfull aſſemblies, or any like offences, ſhall happen to be mooued in any place of this Our Realme, out of the limits of this Our Commiſſion, that then, and as often as neede ſhal require, by your good diſcretion, or as you ſhall be directed from Vs by any ſpeciall commandement, you, with ſuch power to be leuied within the limits of your Lieutenancie, as you ſhall thinke requiſite, or as ſhall be directed from Vs, as is aforeſaid, ſhall repaire to the place, where any ſuch Inuaſion, vnlawfull aſſembly, or Inſurrection ſhall happen to be made, to ſubdue, repreſſe and reforme the ſame, aſwell by battell, or other kinde of force, as otherwiſe by the Lawes of Our Realme, and the Law-Martiall, according to your diſcretion. AND further, We giue vnto you full power and authoritie for the execution of this Our Commiſſion, to appoint and aſſigne within the Principalitie and Dominions of South-Wales and North-Wales, the Marches thereunto adioyning, and the Counties aforeſayd, from time to time Muſter-maſters, and Prouoſt-Martials, as you in your diſcretion ſhall thinke conuenient, to vſe and exerciſe that Office, in ſuch caſes as you ſhall thinke requiſite to vſe the ſaid Law-Martiall. WHEREFORE Wee will and com<g ref="char:EOLhyphen"/>mand you Our ſayd Lieutenant, that with all diligence ye doe execute the premiſſes with effect. AND foraſmuch as it may be, that there ſhall be iuſt cauſe for you to bee attendant vpon Our perſon, or to bee otherwiſe employed in Our ſeruice, whereby this Our ſeruice ofLieutenancie committed to your fidelity, cannot be by you in perſon executed, in ſuch ſort as We haue appointed the ſame; THEREFORE Wee giue vnto you, for your better ayde and aſſi<g ref="char:EOLhyphen"/>ſtance, and for the better performance and execution of this ſame Our ſeruice, full power and authority to appoint, aſſigne and conſtitute by your writing, vnder your hand and Seale, Our truſtie and welbeloued Sir <hi>Walter Deuereux,</hi> Knight and Baronet, Sir <hi>Thomas Ruſſell,</hi> Sir <hi>Richard Greues,</hi> Knights, <hi>Iohn Waſhborne, Edward Seabright, Giles Sauage,</hi> and <hi>Ralph Clare,</hi> Eſquires, to be your Deputies in this ſaid ſeruice in Our Country of Worceſter, and Citie of Worceſter and County of the ſame, and all corporate and priuiledged places within the Limits of Precincts of the ſame County of Worceſter, aſwell within Liberties as without: And Our truſty and welbeloued Sir <hi>Robert Needham,</hi> Sir <hi>Robert Vernon,</hi> Sir <hi>Thomas Cornewall,</hi> Sir <hi>Richard Newport,</hi> Sir <hi>Andrew Corbet,</hi> Sir <hi>Richard Fox,</hi> Knights, and <hi>Robert Leighton</hi> Eſquire, to be your Deputies in this ſayd ſeruice in: Our County of Salop, and all corporate and priuiledged places, within the Limits or Pre<g ref="char:EOLhyphen"/>cincts of the ſame County, aſwell within Liberties as without: And Our truſty and welbeloued Sir <hi>Iohn Seudamore</hi> Knight and Baronet, Sir <hi>Robert Harley,</hi> Sir <hi>Robert Whitney,</hi> Sir <hi>William Croft</hi> Knights, <hi>Fitzwilliam Coningesby, Iames Tomkins,</hi> and <hi>Iohn Rudhall</hi> Eſquires, to be your Deputies in this ſaid ſeruice, in Our County of Hereford, and all corporate and priuiledge places within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſty and welbeloued Sir <hi>Iohn Stepneth</hi> Knight and Baronet, Sir <hi>Iames Perrot,</hi> Sir <hi>Iohn Wogan</hi> Knights, <hi>William Bradſhaw, Thomas ap Rice, Iohn Wogan,</hi> and <hi>Richard Cuney</hi> Eſquires, to be your Deputies in this ſaid ſeruice, in our County of Pem<g ref="char:EOLhyphen"/>broke, and Towne of Hauerfordweſt, and County of the ſame, and all other corporate and priuiledged places, within the Limits or Precincts of the ſame Country of Pembroke, aſwell within Liberties as without: And Our truſty and welbeloued Sir <hi>Iohn Conway,</hi> Sir <hi>Roger Moſtin</hi> Knights, <hi>George Puleſton, Robert Dauies,</hi> and <hi>Humfrey Dymmock</hi> Eſquires, to bee your Deputies in this ſaid ſeruice, in Our County of Flint, and all other corporate and priuiledged pla<g ref="char:EOLhyphen"/>ces, within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſty and welbeloued Sir <hi>Richard Treuor,</hi> Sir <hi>Thomas Middleton,</hi> Sir <hi>Edward Broughton</hi> Knights, <hi>William Wynne, Thomas Trafford,</hi> and <hi>Euan Lloyd</hi> Eſquires, to be your Deputies in this ſaid ſeruice in Our County of Denbigh, and all corporate and priuiledged places, within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſty and welbeloued, Sir <hi>Iohn Lewis</hi> Knight, <hi>Iohn Price, Thomas Price</hi> of Llanvread, <hi>Walter Lloyd, Iames Lewis,</hi> and <hi>Edward <g ref="char:V">Ʋ</g>aughan</hi> Eſquires, to be your Deputies in this ſaid ſeruice in Our County of Cardigan, and all other corporate and priui<g ref="char:EOLhyphen"/>ledged places within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſty and welbeloued Sir <hi>Percy Herbert</hi> Knight and Baronet, Sir <hi>William Herbert,</hi> Sir <hi>Edward Herbert</hi> Knights, <hi>Edward Price, Ienkin Lloyd,</hi> and <hi>Thomas Iuckes</hi> Eſquires, to be your Deputies in this ſaid ſeruice, in Our County of Montgomery, and all corporate and priuiledged places, within the Limits or Precincts of the ſame County, aſwell within Liberties as with<g ref="char:EOLhyphen"/>out: And Our truſty and welbeloued, Sir <hi>Iames Price</hi> Knight, <hi>William Salisbury, William Vaughan, Robert Lloyd, Iohn Lloyd,</hi> and <hi>Iohn Vaughan</hi> of Caergay, Eſquires, to be your Deputies in this ſaid ſeruice, in Our County of Merioneth, and all corporate and priuiledged places, within the Limits or Precincts of the ſame County, aſwel within Liberties as without: And Our truſtie and welbeloued Sir <hi>Iohn Wynne</hi> Knight and Baronet, Sir <hi>William Thomas,</hi> Sir <hi>Iohn Boduell</hi> Knights, <hi>Thomas Williams, Thomas Glynne,</hi> and <hi>Iohn Griffith</hi> Eſquires, to be your Deputies in this ſaid ſeruice, in Our County of Carneruon, and all corporate and priuiledged places, within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſty and welbeloued, Sir <hi>Sackeuile Treuor</hi> Knight, <hi>Richard Bulkeley, William Griffith, William Owen, Rowland White,</hi> and <hi>Pierce Lloyd,</hi> Eſquires, to be your Deputies in this ſayd ſeruice, in Our County of An<g ref="char:EOLhyphen"/>gliſey, and all corporate and priuiledged places, within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſtie and welbeloued, Sir <hi>Henry Williams</hi> Knight, <hi>Edward Games, Thomas Games, Thomas Price,</hi> and <hi>Howell Gwyn</hi> Eſquires, to bee your Deputies in this ſaid ſeruice in Our County of Brecknock, and all corporate and priuiledged places, within the Limits or Precincts of the ſame County, aſwell within Liberties as without: And Our truſtie and welbeloued, <hi>Iohn Bradſhaw, Iames Price</hi> of Monaghty, <hi>Iames Price</hi> of Pilleth, <hi>Richard Iames, Iohn Lloyd</hi> of Bettus, and <hi>Humfrey Walcot</hi> Eſquires, to be your Deputies in this ſaid ſeruice in Our County of Radnor, and all cor<g ref="char:EOLhyphen"/>porate and priuiledged places within the Limits or Precincts of the ſame County, aſwel within Liberties as without: And Our right truſtie and welbeloued, <hi>Iohn</hi> Lord <hi>
+                  <g ref="char:V">Ʋ</g>aughan,</hi> and Our truſtie and welbeloued Sir <hi>Iohn Philipps,</hi> Sir <hi>Franci<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maunſell</hi> Baronets, Sir <hi>Henry Iones</hi> Knight, <hi>Henry Vaughan,</hi> and <hi>Iohn Lloyd</hi> Eſquires, to bee your Deputies in this ſaid ſeruice in Our County of Carmarthen, and towne of Carmarthen, and County of the ſame, and all other corporate and priuiledged places, within the Limits or Precincts of the ſame County of Carmarthen, aſwell within Liberties as without. AND by this Our preſent Commiſſion, We giue vnto euery two or more of your ſaid Deputies, ſo beeing by you aſſigned and appointed as aforeſayd, full power and authority in your abſence, to doe and execute, in euery County, where they are deputed and aſſigned to be your Deputies, as aforeſayd, and in all corporate and priuiledged pla<g ref="char:EOLhyphen"/>ces, within the Limits or Precints of the ſame County, aſwell within Liberties as without, all and ſuch, and ſo much of euerything and things, before by this Our preſent Commiſſion, aſſigned and appointed by you to bee done and exe<g ref="char:EOLhyphen"/>cuted, and ſo farre foorth as by you in your ſaid writings of deputation, ſhall be to them preſcribed and appointed to be done and executed. AND Our further pleaſure, will, and commandement is, That your ſaid Deputies ſhall im<g ref="char:EOLhyphen"/>mediatly after your writings of deputation to them made, as is aforeſayd, take charge and care to ſee euery point and thing of this Our Commiſſion, fully and perfectly executed in your abſence, as by you in your ſaid writings of deputa<g ref="char:EOLhyphen"/>tion ſhall be to them preſcribed and appointed to be done and executed. AND the better to enable them ſo to doe, yee ſhall deliuer to euery two of your ſaid Deputies, ſo appointed and deputed for the ſayd ſeuerall Counties as aboue-ſayd, a true tranſcript of this Our Commiſſion, ſubſcribed with your hand: And whatſoeuer you alone being preſent, ſhall doe by vertue of this Our Commiſſion, or in your abſence your ſayd Deputies, or any two or more of them, ſhall doe according to the tenor and effect of your ſaid writings of deputation to be made, as is aboue-ſayd, the ſame ſhall be by theſe preſent diſcharged againſt Vs. Our Heires and Succeſſors. AND further, We will and command all and ſinguler Our Iuſtices of Peace, Maiors, Shiriffes, Bailiffes, Conſtables, Headboroughs, and all other Our Officers, Miniſters, and Subiects, meet and apt for the Warres, within euery of the ſaid Counties, and all corporate and priuiledged places, within the Limits or Precincts of the ſaid Counties, and euery of them aſwell within Liberties as without, to whom it ſhall appertaine, That they and euery of them with their power and ſeruants, from time to time ſhall be atten<g ref="char:EOLhyphen"/>dant, aiding, aſſiſting, counſelling, helping, and at the comandement of you, and of your ſaid Deputies, or any two or more of them, in the Shires aforeſaid, in the execution hereof in all points, as appertaineth, as they and euery of them tender Our pleaſure, and will anſwere for the contrary at their vttermoſt perils. PROVIDED alwayes, that this Our preſent Commiſſion, or any thing therein contained, ſhall not in any wiſe extend to the County of Glouceſter, the Citie of Glouceſter, and County of the ſame, or to any of them, or to the County Pallantine of Cheſter, or to the Citie of Cheſter, or to any part thereof, or to the Counties of Glamorgan, or Monmouth, or to any of them, or to any part of them, or any of them. IN WITNES whereof, We haue cauſed theſe Our Letters to be made Patents.</p>
+            <closer>
+               <dateline>WITNES Our ſelfe at Weſtminſter, <date>the fourth day of April, in the firſt yeere of Our Reigne.</date>
+               </dateline>
+               <signed>Per Dominum Cuſtodem magni Sigilli Angliae, virtute Warr. Reg. <hi>EDMONDS</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
